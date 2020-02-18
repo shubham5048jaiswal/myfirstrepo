@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>IT SEC C</title>
+<body>
+<center>
+<table border="2">
+<p><h1>TIME TABLE</p></h1>
+<tr>
+<th>DAY</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+<tr>
+<td>MONDAY</td>
+<td>operating system</td>
+<td>TAFL</td>
+<td>web desigining</td>
+<td>operating system</td>
+</tr>
+<tr>
+<td>TUESDAY</td>
+<td>TAFL</td>
+<td>EE</td>
+<td>UHV</td>
+<td>TAFL</td>
+</tr>
+<tr>
+<td>WEDNESDAY</td>
+<td>operating system</td>
+<td>TAFL</td>
+<td>UHV</td>
+<td>EE</td>
+</tr>
+</table>
+</body>
+</html>
